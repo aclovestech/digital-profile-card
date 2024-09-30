@@ -1,4 +1,4 @@
-# App #2: Digital Profile Card
+# Digital Profile Card
 
 ## Reference(s):
 
